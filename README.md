@@ -1,26 +1,26 @@
-# Welcome 👋,
-My name is Maria, a Software Engineer from Portugal, but I live in Copenhagen, DK.
+# Welcome 👋
 
-I have a background in UX Design that helped me discover my interest in all sides of software development.
+```yaml
+name: Maria Almeida
+origin: Portugal
+location: Denmark
 
-In general, I'm intrigued by all things tech (software and hardware), as well as games.
+profession: Software Engineer
+valued_areas:
+    - User Experience
+    - Architecture
+    - Performance
+    - Accessibility
 
-<div align="center">
-  <div>
-  <a href="https://www.linkedin.com/in/mariajalmeida/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://panopticonism.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-red" alt="Portfolio Badge"/>
-  </a>
-</div>
-</br>
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=panopticonism&hide=contribs&hide_rank=true" alt="stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panopticonism&layout=compact" alt="languages" />
-  </a>
-</div>
-</div>
+hobbies:
+    - Sports
+    - Games
+    - Tech
+    - Cinema
+```
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat)](https://www.linkedin.com/in/mariajalmeida/)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-red?style=flat)](https://panopticonism.dev/)
+
+[![Panopticonism's GitHub stats](https://github-readme-stats.vercel.app/api?username=panopticonism&hide=contribs&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Panopticonism's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=panopticonism&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
